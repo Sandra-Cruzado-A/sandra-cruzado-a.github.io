@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sandra_cruzado_a.twa",
+        "sha256_cert_fingerprints": ["17:85:96:8E:E0:15:2D:96:BE:95:67:80:26:58:15:57:50:43:19:C0:62:D4:2D:92:8E:1B:CF:2C:C1:66:E9:A6"]
+      }
+    }]
